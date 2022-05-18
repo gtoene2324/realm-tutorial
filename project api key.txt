@@ -1,1 +1,0 @@
-realm-cli login --api-key dwoqvict --private-api-key b7a7bc46-0d90-4284-89cc-84b34ef6c885
