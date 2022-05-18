@@ -1,0 +1,4 @@
+cp -a ./relm-task/realm-tutorial-web/build/. ./relm-task/realm-tutorial-backend/hosting/files
+
+
+realm-cli push --remote=tasktracker-prscz --include-hosting
